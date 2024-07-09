@@ -1,6 +1,10 @@
-# P4-Sapheus
+# <div align="center">P4 Sapheus</div>
 
-![Logo](https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Logo.png)
+## <div align="center">Pages</div>
+###
+<div>
+  <img src="[https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Logo.png]" width="150">
+</div>
 
 The purpose of this 4th-semester project was to design and code an interface in the theme of connecting people. We identify a problem regarding safety in nightlife and work from the problem statement:
 
@@ -10,6 +14,7 @@ The overall focus was to improve safety by connecting friends. Through our desig
 
 Our product was an app called Sapheus that helps friends know if everyone is safe.
 
-![Interface](https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Interface.png)
-
-
+###
+<div>
+  <img src="[https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Interface.png]" width="150" />
+</div>
