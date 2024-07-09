@@ -1,5 +1,7 @@
 # P4-Sapheus
 
+![](https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Logo.png)
+
 The purpose of this 4th-semester project was to design and code an interface in the theme of connecting people. We identify a problem regarding safety in nightlife and work from the problem statement:
 
 "How can we develop an interface that promotes safety and connectedness between friends?"
@@ -8,5 +10,6 @@ The overall focus was to improve safety by connecting friends. Through our desig
 
 Our product was an app called Sapheus that helps friends know if everyone is safe.
 
+![](https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Interface.png)
 
 
