@@ -1,7 +1,7 @@
 # <div align="center">P4 Sapheus</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Stadsholt/P4-Sapheus/main/README-Images/Logo.png" width="500">
+  <img src="https://raw.githubusercontent.com/Stadsholt/P4-Sapheus/main/README-Images/Logo.png" width="300">
 </div>
 
 The purpose of this 4th-semester project was to design and code an interface in the theme of connecting people. We identify a problem regarding safety in nightlife and work from the problem statement:
