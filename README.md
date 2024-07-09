@@ -3,7 +3,7 @@
 ## <div align="center">Pages</div>
 ###
 <div>
-  <img src="[https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Logo.png]" width="150">
+  <img src="[https://github.com/Stadsholt/P4-Sapheus/blob/main/README-Images/Logo.png]" width="150">
 </div>
 
 The purpose of this 4th-semester project was to design and code an interface in the theme of connecting people. We identify a problem regarding safety in nightlife and work from the problem statement:
@@ -16,5 +16,5 @@ Our product was an app called Sapheus that helps friends know if everyone is saf
 
 ###
 <div>
-  <img src="[https://github.com/Stadsholt/P4-Sapheus/tree/main/README-Images/Interface.png]" width="150" />
+  <img src="[https://github.com/Stadsholt/P4-Sapheus/blob/main/README-Images/Interface.png]" width="150" />
 </div>
