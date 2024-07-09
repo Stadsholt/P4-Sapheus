@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/appicon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".Menus.ProfileEdit"
+            android:exported="false" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <!--             TODO: Add page here if it isn't, plenty of times this was the problem when a page doesn't work -->
+
+
+        <!--  Starting activity  -->
+                <activity android:name=".Menus.LoginPage"
+                    android:label="@string/app_name"
+                    android:exported="true">
+                    <intent-filter>
+                        <action android:name="android.intent.action.MAIN" />
+                        <category android:name="android.intent.category.LAUNCHER" />
+                    </intent-filter>
+                </activity>
+
+
+
+
+                <activity
+                    android:name=".Menus.Groups.ActivateGroupPage"
+                    android:exported="true"
+                    android:label="ActivateGroupPage" />
+
+
+                <activity
+                    android:name=".Menus.MapPage"
+                    android:exported="true"
+                    android:label="@string/title_activity_maps_page" />
+                <activity
+                    android:name=".Menus.Groups.JoinGroupPage"
+                    android:exported="true"
+                    android:label="JoinGroupPage" />
+                <activity
+                    android:name=".Menus.Groups.CreateGroupPage"
+                    android:exported="true"
+                    android:label="CreateGroupPage" />
+                <activity
+                    android:name=".Menus.HelpPage"
+                    android:exported="true"
+                    android:label="HelpPage" />
+                <activity
+                    android:name=".Menus.Groups.QRPage"
+                    android:exported="true"
+                    android:label="QRPage" />
+                <activity
+                    android:name=".Menus.ProfilePage"
+                    android:exported="true"
+                    android:label="ProfilePage" />
+                <activity
+                    android:name=".Menus.Groups.GroupActivePage"
+                    android:exported="true"
+                    android:label="GroupActivePage" />
+                <activity
+                    android:name=".Menus.Groups.GroupsPage"
+                    android:exported="true" />
+                <activity
+                    android:name=".Menus.MainMenu"
+                    android:exported="true">
+                    <intent-filter>
+                        <action android:name="android.intent.action.MAIN" />
+
+                        <category android:name="android.intent.category.LAUNCHER" />
+                    </intent-filter>
+                </activity>
+
+                <meta-data
+                    android:name="com.google.android.geo.API_KEY"
+                    android:value="AIzaSyC2BWKK2s3chSgHXzvljMxLvxTbdFz1x94" />
+            </application>
+
+        </manifest>

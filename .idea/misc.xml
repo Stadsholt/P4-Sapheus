@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/colors.xml" value="0.2895" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activate_group_page.xml" value="0.176" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_2.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_activate_group_page.xml" value="0.3328804347826087" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_create_group_page.xml" value="0.6" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_group_active_page.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_groups_page.xml" value="0.4" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_join_group_page.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_map_page.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_qr_page.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/add_member_page.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/create_group_page.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/group_active_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/groups_page.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/help_page.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/join_group_page.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/login_page.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/map_page.xml" value="0.4" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/profile_edit_page.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/profile_page.xml" value="0.4" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/qr_page.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/MyApplication/app/src/main/res/layout/registerpage.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/activate_group_page.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/activity_activate_group_page.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/activity_groups_page.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/groups_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/help_page.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/map_page.xml" value="0.152" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/profile.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/profile_page.xml" value="0.536" />
+        <entry key="..\:/Users/Sebastian/AndroidStudioProjects/P4/app/src/main/res/layout/sebastian.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/eskel/StudioProjects/P4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.149" />
+        <entry key="..\:/Users/eskel/StudioProjects/P4/app/src/main/res/layout/activity_groups_page.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/eskel/StudioProjects/P4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/eskel/StudioProjects/P4/app/src/main/res/layout/activity_main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/eskel/StudioProjects/P4/app/src/main/res/layout/activity_map_page.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

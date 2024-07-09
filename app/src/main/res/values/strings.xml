@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sapheus</string>
+    <string name="title_activity_maps_page">MapsPage</string>
+    <string name="Back"><![CDATA[<]]></string>
+
+</resources>
